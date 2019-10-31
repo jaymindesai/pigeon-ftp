@@ -13,7 +13,7 @@ Under the hood, it uses UDP to send packets from one host to another. Stop-and-W
 #### Clone this repo 
 
 ```bash
-git clone git@github.ncsu.edu:pmgaikwa/pigeon-ftp pigeon-ftp
+git clone git@github.com:jaymindesai/pigeon-ftp pigeon-ftp
 
 # switch to directory
 cd pigeon-ftp
